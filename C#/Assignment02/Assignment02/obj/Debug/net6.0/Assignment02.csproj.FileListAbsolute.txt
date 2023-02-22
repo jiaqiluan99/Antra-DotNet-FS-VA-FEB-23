@@ -1,0 +1,15 @@
+/Users/diveflam00/Projects/Assignment02/Assignment02/bin/Debug/net6.0/Assignment02
+/Users/diveflam00/Projects/Assignment02/Assignment02/bin/Debug/net6.0/Assignment02.deps.json
+/Users/diveflam00/Projects/Assignment02/Assignment02/bin/Debug/net6.0/Assignment02.runtimeconfig.json
+/Users/diveflam00/Projects/Assignment02/Assignment02/bin/Debug/net6.0/Assignment02.dll
+/Users/diveflam00/Projects/Assignment02/Assignment02/bin/Debug/net6.0/Assignment02.pdb
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.csproj.AssemblyReference.cache
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.AssemblyInfoInputs.cache
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.AssemblyInfo.cs
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.csproj.CoreCompileInputs.cache
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.dll
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/refint/Assignment02.dll
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.pdb
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/Assignment02.genruntimeconfig.cache
+/Users/diveflam00/Projects/Assignment02/Assignment02/obj/Debug/net6.0/ref/Assignment02.dll
