@@ -1,0 +1,15 @@
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/bin/Debug/net6.0/Assignment04
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/bin/Debug/net6.0/Assignment04.deps.json
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/bin/Debug/net6.0/Assignment04.runtimeconfig.json
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/bin/Debug/net6.0/Assignment04.dll
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/bin/Debug/net6.0/Assignment04.pdb
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.csproj.AssemblyReference.cache
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.AssemblyInfoInputs.cache
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.AssemblyInfo.cs
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.csproj.CoreCompileInputs.cache
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.dll
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/refint/Assignment04.dll
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.pdb
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/Assignment04.genruntimeconfig.cache
+/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/obj/Debug/net6.0/ref/Assignment04.dll

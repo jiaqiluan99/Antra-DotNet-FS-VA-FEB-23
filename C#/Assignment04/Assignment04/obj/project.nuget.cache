@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YwZWxyowOjfCx8iw6dFFGbSilsel7T6k1g0BRXwkP1gI+ti1jiFnpn/qjemFkfj++10UEa1mDs25HUzjaVZmg==",
+  "success": true,
+  "projectFilePath": "/Users/diveflam00/Desktop/Antra/Assignment04/Assignment04/Assignment04.csproj",
+  "expectedPackageFiles": [
+    "/Users/diveflam00/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/diveflam00/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512",
+    "/Users/diveflam00/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
