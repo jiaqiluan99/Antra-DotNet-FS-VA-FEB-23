@@ -1,0 +1,93 @@
+body {
+    font-family: Arial;
+}
+.headerBackground {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/image1.jpg");
+	background-size: cover;
+    background-position: bottom;
+    height: 300px;
+    text-align: right;
+    color: white;
+    padding: 10px;
+    padding-top: 200px;
+}
+
+.navbar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+    overflow: hidden;
+    border-radius: 0;
+}
+.navbar li {
+    float: left;
+}
+.navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: darkgray;
+    color: white;
+}
+
+.navbar a.active {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: greenyellow;
+    color: black;
+    padding: 50px;
+    padding-left: 150px;
+
+}
+
+a {
+    color: black;
+}
+
+.bubble {
+    margin: 50px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.title {
+    color: greenyellow;
+    margin-left: 20px;
+}
+
+.image {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+.product {
+    margin: 20px;
+}
+
+.news {
+    background-color: lightgray;
+    margin: 50px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
