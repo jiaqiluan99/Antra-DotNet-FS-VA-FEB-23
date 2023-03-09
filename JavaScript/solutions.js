@@ -85,7 +85,7 @@ console.log(truncate(t1, 20));
 console.log(truncate(t2, 20));
 
 
-//problem 5
+//Problem 5
 const arr = ["James", "Brennie"];
 console.log(arr);
 arr.push("Robert");
